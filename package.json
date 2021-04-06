@@ -1,0 +1,45 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.4.0",
+    "ms": "^2.1.2",
+    "moment": "^2.29.1",
+    "weather-js": "^2.0.0",
+    "canvas": "^2.6.1",
+    "something-random-on-discord": "^0.0.1",
+    "node-fetch": "^2.6.1",
+    "canvacord": "^5.0.8",
+    "discord-uno": "^2.0.20",
+    "moment-duration-format": "^2.3.2",
+    "@iamtraction/google-translate": "^1.1.0",
+    "discord-math": "^1.0.4",
+    "superagent": "^6.1.0",
+    "imdb-api": "^4.4.0",
+    "google-play-scraper": "^8.0.2",
+    "got": "^11.7.0",
+    "owofy": "^1.0.1",
+    "urban": "^0.3.2",
+    "google": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "random-email": "^1.0.3",
+    "generate-password": "^1.5.1",
+    "discord.js-pagination": "^1.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
