@@ -1678,7 +1678,7 @@ if(message.author.id !== `818931391659769867`) return channel.send(`You are not 
  .addField(`** **`, [
         `**→ Tokens ←**`,
         `**❯ This Bot:**`,
-     	`ODIxNzkwMjg2MTQ0ODY0MzU2.YFI12A.lGUywI1hUHbxc1OlDe3bbsQITk0`,
+     	`Secret`,
         `\u200b`
       ])
  .addField(`\u200b`, [
@@ -1761,4 +1761,4 @@ if(message.author.id !== `818931391659769867`) return channel.send(`You are not 
 }
 });
 
-client.login("ODIxNzkwMjg2MTQ0ODY0MzU2.YFI12A.lGUywI1hUHbxc1OlDe3bbsQITk0")
+client.login("Secret")
